@@ -58,7 +58,7 @@ Welcome! I'm a **Software Technical Writer** with a strong technical foundation 
 
 ## 📬 Let’s Connect
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=github&logoColor=white)](https://your-portfolio.com)     [![Email](https://img.shields.io/badge/-Email-green?logo=gmail&logoColor=white)](mailto:vyshnavnaidu23101997@gmail.com)      [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/vyshnav-sai-sree-naidu)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=github&logoColor=white)](https://your-portfolio.com)     [![Email](https://img.shields.io/badge/-Email-green?logo=gmail&logoColor=white)](mailto:vyshnavnaidu23101997@gmail.com)      [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vyshnav-sai-sree-naidu/)
 
 ---
 
